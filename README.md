@@ -1,9 +1,14 @@
 # Evaluation d'entrainement Base de données
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-Une petite description du projet
+En vue de la mise en place d’un logiciel de réservation de places de cinéma, modéliser la base de données 
+attendue.
+Vous avez déjà eu un entretien avec le commanditaire (disponible en annexe). À partir des réponses
+apportées, concevez le diagramme de classes UML ou un Modèle Conceptuel de Données.
+Enfin, vous devez retranscrire ce schéma physique en tables SQL alimentées de données factices à l’aide
+d’un SGBDR (ex: MariaDB, PostgreSQL) et savoir comment l’exporter pour le commanditaire.
+
 
 ## Pour commencer
 
